@@ -1,0 +1,7 @@
+{
+  "name": "যশোর টিটিসি ব্লাড কর্নার (Jessore TTC Blood Corner)",
+  "description": "A comprehensive blood donation platform for Jessore TTC, enabling donor registration, searching, and emergency requests.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
